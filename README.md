@@ -163,9 +163,4 @@ To showcase **real-world backend development skills**, clean architecture, and i
 
 ---
 
-## ⭐ Note for Recruiters
-
-This repository represents my **discipline, consistency, and real-world backend development exposure**.  
-Each module is designed with **scalability, maintainability, and production standards** in mind.
-
 📌 *I am actively looking for backend / full-stack developer opportunities.*
